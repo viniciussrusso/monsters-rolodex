@@ -30,14 +30,16 @@ class App extends Component {
     );
 
     return (
-      <div className="App">
-        <h1> Monsters Rolodex App</h1>
-        <SearchBox
-          placeholder="search monsters"
-          handleChange={this.handleChange}
-        />
-        <CardList monsters={filteredMonsters}> </CardList>
-      </div>
+      <React.StrictMode>
+        <div className="App">
+          <h1> Monsters Rolodex App</h1>
+          <SearchBox
+            placeholder="search monsters"
+            handleChange={this.handleChange}
+          />
+          <CardList monsters={filteredMonsters}> </CardList>
+        </div>
+      </React.StrictMode>
     );
   }
 }
