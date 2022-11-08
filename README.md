@@ -1,11 +1,11 @@
-<h1 align="center">Personal Portfolio</h1>
+<h1 align="center">Monsters Rolodex</h1>
 
-Welcome to my Monsters Rolodex,
+Welcome to my first React Web Application,
 
 I have completed this web application as my first lesson learning React.js and RESTful API. 
 This application is a one-page, class based component that imports all data from a external API. 
 
-
+If you want to try this application, start typing a monster's name. 
 
 [**Visit this application online**](https://viniciussrusso.github.io/monsters-rolodex/)
 
@@ -57,21 +57,11 @@ This application is a one-page, class based component that imports all data from
 
 # Demonstration 
 
-### Mobile
-
 <p align="center">
-  <img height="300" width="300" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/mobile-app.png">
-</p>
-
-
-<br>
-
-### PC/Laptop
-<p align="center">
-  <img height="300" width="500" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/pc1.png">
+  <img height="300" width="500" src="https://github.com/viniciussrusso/monsters-rolodex/blob/main/src/assets/app1.png">
 </p>
 <p align="center">
-  <img height="300" width="500" src="https://github.com/viniciussrusso/react-portfolio/blob/main/src/assets/readme/pc2.png">
+  <img height="300" width="500" src="https://github.com/viniciussrusso/monsters-rolodex/blob/main/src/assets/app2.png">
 </p>
 
 <br>
